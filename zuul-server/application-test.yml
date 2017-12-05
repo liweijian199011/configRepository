@@ -1,4 +1,4 @@
 management:
   context-path: /actuator
   security:
-    enabled: false
+    enabled: true
